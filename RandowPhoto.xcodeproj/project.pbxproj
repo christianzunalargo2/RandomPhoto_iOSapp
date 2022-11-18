@@ -16,6 +16,9 @@
 		061787A329269CE000DCC878 /* RandowPhotoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 061787A229269CE000DCC878 /* RandowPhotoTests.swift */; };
 		061787AD29269CE000DCC878 /* RandowPhotoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 061787AC29269CE000DCC878 /* RandowPhotoUITests.swift */; };
 		061787AF29269CE000DCC878 /* RandowPhotoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 061787AE29269CE000DCC878 /* RandowPhotoUITestsLaunchTests.swift */; };
+		061787BC2927E8CA00DCC878 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 061787BB2927E8CA00DCC878 /* README.md */; };
+		061787BD2927E8CA00DCC878 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 061787BB2927E8CA00DCC878 /* README.md */; };
+		061787BE2927E8CA00DCC878 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 061787BB2927E8CA00DCC878 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +52,7 @@
 		061787A829269CE000DCC878 /* RandowPhotoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RandowPhotoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		061787AC29269CE000DCC878 /* RandowPhotoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandowPhotoUITests.swift; sourceTree = "<group>"; };
 		061787AE29269CE000DCC878 /* RandowPhotoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandowPhotoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		061787BB2927E8CA00DCC878 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +83,7 @@
 		0617877F29269CDE00DCC878 = {
 			isa = PBXGroup;
 			children = (
+				061787BB2927E8CA00DCC878 /* README.md */,
 				0617878A29269CDE00DCC878 /* RandowPhoto */,
 				061787A129269CE000DCC878 /* RandowPhotoTests */,
 				061787AB29269CE000DCC878 /* RandowPhotoUITests */,
@@ -233,6 +238,7 @@
 			files = (
 				0617879829269CE000DCC878 /* LaunchScreen.storyboard in Resources */,
 				0617879529269CE000DCC878 /* Assets.xcassets in Resources */,
+				061787BC2927E8CA00DCC878 /* README.md in Resources */,
 				0617879329269CDE00DCC878 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -241,6 +247,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				061787BD2927E8CA00DCC878 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -248,6 +255,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				061787BE2927E8CA00DCC878 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -4,4 +4,4 @@ It's an iOS app which renders a new image from a public API and changes backgrou
 
 --- 
 
-![](./images/screen_shot1.png)
+<img src="./images/screen_shot1.png" width="400">
